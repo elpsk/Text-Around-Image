@@ -4,6 +4,7 @@
 Draw a text using an UITextView along an UIImage
 
 
+![A Screenshot](https://raw.github.com/elpsk/Text-Around-Image/master/ss.png "A")
 
 ```
 - ( void ) drawText
